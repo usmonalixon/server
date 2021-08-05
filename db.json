@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Optional stream",
+      "description": "stream of users",
+      "id": 1
+    },
+    {
+      "title": "amazon",
+      "description": "amazon",
+      "userId": "116086699482312073168",
+      "id": 2
+    }
+  ]
+}
